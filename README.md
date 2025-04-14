@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+vi<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
 <h1 align="center"> 𝖫𝖠𝖳𝖤𝖲𝖳 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <!-- Part 2: SESSION ID & DEPLOYMENTS -->
 <p align="center">
     <strong>2. SESSION ID & DEPLOYMENTS</strong>
-    <br>
+    <br>XPLOADER-BOT:~rG4TgRxB#Zlkj3JLZQdkROZANzfW3bIMHgiE0K5B23iFWMRwqauY
     <a href="https://cypherxbot.vercel.app/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
